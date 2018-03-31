@@ -1,4 +1,4 @@
 # test
-First repository 
+First repository / Michał Fijałkowski
 
 Git & Github testing
